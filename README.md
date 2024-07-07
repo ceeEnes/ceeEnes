@@ -7,6 +7,8 @@
 
 # Technology Stack
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <img align="left" alt="js" width="30px" src="icons/flutter.png" />
 <img align="left" alt="js" width="30px" src="icons/dart.png" />
 <img align="left" alt="nodejs" width="30px" src="icons/nodejs.png" />
