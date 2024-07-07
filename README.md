@@ -8,7 +8,7 @@
 
 # Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,postgres,mysql,selenium,npm,git,gitlab,github,gradle,nginx,figma,postman,sqlite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,postgres,mysql,selenium,npm,git,gitlab,github,gradle,nginx,figma,postman,sqlite&perline=7)](https://skillicons.dev)
 
 <br />
 
